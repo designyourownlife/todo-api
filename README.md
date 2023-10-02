@@ -14,7 +14,7 @@ Node.js will be used to execute the `index.js` file in the `dist` folder.
 ### `npm run dev`
 
 Runs the API in the development mode.\
-Therefor our node application will be executed by nodemon, which transpiles typescript to javascript just-in-time when code changes happen.
+Therefor node application will be executed by nodemon, which transpiles TypeScript into JavaScript just-in-time (whenever code changes happen).
 
 ### `npm run build`
 
