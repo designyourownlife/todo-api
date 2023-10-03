@@ -1,6 +1,6 @@
 # Todo API
 
-Express + TypeScript Server with TypeORM connecting to MySQL
+Express + TypeScript Server with TypeORM connecting to MySQL database
 
 ## Available Scripts
 
